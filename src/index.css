@@ -1,0 +1,12 @@
+.allheroes{
+    height: 400px;
+    width: 700px;
+    border-radius: 50px;
+}
+.divLogin{
+    margin-top: 30px;
+    width: 300px;
+    height: 200px;
+    display: grid;
+    align-content: flex-start;
+}
